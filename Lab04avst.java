@@ -2,7 +2,7 @@ public class Lab04avst
 {
     public static void main(String[] args)
         {
-            System.out.println("90p version");
+            System.out.println("80p version");
 
             System.out.println("Lab 04a Student Version\n");
             double principal = 250000;
