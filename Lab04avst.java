@@ -22,5 +22,9 @@ public class Lab04avst
             double monthPayment = ((numerator / denominator) * principal);
 
             System.out.println("Monthly Pay: $"+monthPayment);
+
+            double totalPay = monthPayment*numMonths;
+
+            System.out.println("Total Pay: $"+totalPay);
         }
 }
